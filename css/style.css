@@ -15,6 +15,11 @@ body {
   color: #445b7c;
   background-color: #445b7c;
 }
+body h2{
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+}
 
 a {
   color: #dc717d;
@@ -44,6 +49,7 @@ header h1 {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 @media only screen and (min-width: 768px) {
   header {
     height: 240px;
@@ -51,6 +57,10 @@ header h1 {
   }
   header h1 {
     font-size: 32px;
+    font-size: 2rem;
+  }
+  header h2{
+    font-size: 15px;
     font-size: 2rem;
   }
 }
