@@ -1,10 +1,3 @@
-Image Comparison Slider
-=========
-
-A handy draggable slider to quickly compare 2 images, powered by CSS3 and jQuery.
+Eric Lin's English 104 project, implemented with javascript, html, and css. The CodyHouse package has been used to implement photo comparison slider. It is linked below:
 
 [Article on CodyHouse](http://codyhouse.co/gem/css-jquery-image-comparison-slider/)
-
-[Demo](http://codyhouse.co/demo/image-comparison-slider/index.html)
- 
-[Terms](http://codyhouse.co/terms/)
