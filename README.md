@@ -1,6 +1,4 @@
-Eric Lin's English 140 project, implemented with javascript, html, and css. The CodyHouse package has been used to implement photo comparison slider. It is linked below:
-
-[Article on CodyHouse](http://codyhouse.co/gem/css-jquery-image-comparison-slider/)
+Eric Lin's English 140 project, implemented with javascript, html, and css. The CodyHouse package has been used to implement photo comparison slider.  
 
 [Some stock photos are gathered from UW-Madison's photoshelter site](https://uwmadison-photos.photoshelter.com/index).   
 
