@@ -1,5 +1,10 @@
-Eric Lin's English 140 project, implemented with javascript, html, and css. The CodyHouse package has been used to implement photo comparison slider.  
+Image Comparison Slider
+=========
 
-[Some stock photos are gathered from UW-Madison's photoshelter site](https://uwmadison-photos.photoshelter.com/index).   
+A handy draggable slider to quickly compare 2 images, powered by CSS3 and jQuery.
 
-[Extra photos taken for the project could be found here](https://drive.google.com/drive/folders/1CfJLTDEoVJNfiT-em9qg1hKFRlwaaCXJ?usp=sharing)
+[Article on CodyHouse](http://codyhouse.co/gem/css-jquery-image-comparison-slider/)
+
+[Demo](http://codyhouse.co/demo/image-comparison-slider/index.html)
+ 
+[Terms](http://codyhouse.co/terms/)
